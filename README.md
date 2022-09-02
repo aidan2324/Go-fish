@@ -1,5 +1,5 @@
 # Go-fish
-2 player go fish game in the terminal
+2 player go fish game in the terminal, players can be users or computers  
 card:   struct for card and hand
 deck:   functions to shuffle deck and deal cards
 player: functions to track players hand, matches, and handle user input
